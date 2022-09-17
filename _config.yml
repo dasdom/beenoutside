@@ -35,29 +35,29 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Physics Formulas
-    description                           : Quickly find the most important Physics formulas.
-    fontawesome_icon_name                 : magnet 
+  #- title                                 : Physics Formulas
+  #  description                           : Quickly find the most important Physics formulas.
+  #  fontawesome_icon_name                 : magnet 
     
-  - title                                 : Math Formulas
-    description                           : A small but growing collection of math formulas.
-    fontawesome_icon_name                 : plus 
+  #- title                                 : Math Formulas
+  #  description                           : A small but growing collection of math formulas.
+  #  fontawesome_icon_name                 : plus 
 
-  - title                                 : Formula Calculators
-    description                           : Use the build-in calculators to quick and easy calculate results for most of the formulas.
-    fontawesome_icon_name                 : calculator
+  #- title                                 : Formula Calculators
+  #  description                           : Use the build-in calculators to quick and easy calculate results for most of the formulas.
+  #  fontawesome_icon_name                 : calculator
 
-  - title                                 : Chemical Elements
-    description                           : Search in the list of chemical elements and look up properties like atomic mass and electron configuration.
-    fontawesome_icon_name                 : flask
+  #- title                                 : Chemical Elements
+  #  description                           : Search in the list of chemical elements and look up properties like atomic mass and electron configuration.
+  #  fontawesome_icon_name                 : flask
 
-  - title                                 : Periodic Table Of Elements
-    description                           : See the groups and properties of elements in a periodic table.
-    fontawesome_icon_name                 : atom
+  #- title                                 : Periodic Table Of Elements
+  #  description                           : See the groups and properties of elements in a periodic table.
+  #  fontawesome_icon_name                 : atom
   
-  - title                                 : Favorites
-    description                           : While preparing for a test, favorite formulas you need to remember to find them even quicker.
-    fontawesome_icon_name                 : star
+  #- title                                 : Favorites
+  #  description                           : While preparing for a test, favorite formulas you need to remember to find them even quicker.
+  #  fontawesome_icon_name                 : star
 
 
 # Theme Settings
