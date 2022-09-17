@@ -1,39 +1,28 @@
 ---
 layout: page
-title: Privacy Policy
+title: Been Outside
 include_in_header: false
 ---
 
 ## Privacy Policy
 
-We built the Phy app as a Commercial app. This SERVICE is provided by and is intended for use as is.
+This app does not collect any data.
 
-This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.
+## Third party code
 
-**Information Collection and Use**
+No third party code is used.
 
-Phy does not collect any data.
+## Log Data
 
-**Log Data**
+No log data is gathered.
 
-No log data is collected.
-
-**Cookies**
+## Cookies
 
 No cookies are stored.
 
-**Service Providers**
+## Changes to This Privacy Policy
 
-No third party code or service is used.
+This Privacy Policy might change in the future. Please visit this site from time to time to inform yourself about the changes.
 
-**Security**
-
-As no data is collected, there are no security inplications from using Phy.
-
-**Changes to This Privacy Policy**
-
-We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted on this page.
-
-**Contact Us**
-
-If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at dominik dot hauser ät dasdom dot de.
+## Contact Me
+If you have any questions or suggestions about this Privacy Policy, do not hesitate to contact me (dominik.hauser (ät) dasdom (dot) de).
