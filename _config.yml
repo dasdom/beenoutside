@@ -1,8 +1,8 @@
 #page title
-page_title                                : Physics++                                 # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
+page_title                                : Been Outside                              # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
 # App Info
-ios_app_id                                : 325836855                                 # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
+ios_app_id                                :                                  # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
 ios_app_country                           : us                                        # Required outside USA. Enter 2 letter country code as in https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2
 
 appstore_link                             :                                           # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
@@ -11,9 +11,9 @@ presskit_download_link                    :                                     
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
 app_icon                                  : # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
-app_name                                  : Physics++                                 # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_name                                  : Been Outside                              # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Quick and easy find the most important Physics formulas.
+app_description                           : Automatically track how long you are away from home.
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -26,7 +26,7 @@ your_city                                 : Düsseldorf
 email_address                             : dominik.hauser@dasdom.de
 facebook_username                         :                                           
 instagram_username                        : 
-twitter_username                          : PhyApp
+twitter_username                          : dasdom
 github_username                           : dasdom
 youtube_username                          :
 
