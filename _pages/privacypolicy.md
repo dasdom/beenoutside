@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Been Outside
+title: Privacy Policy
 include_in_header: false
 ---
 
